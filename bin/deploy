@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cp target/helloworld.jar /tmp
+java -cp /tmp/helloworld.jar is.ru.helloworld.helloworld
